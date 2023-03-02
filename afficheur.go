@@ -51,6 +51,7 @@ func affichage(c []int) {
 			}
 		}
 	}
+	fmt.Print("\n")
 
 }
 
